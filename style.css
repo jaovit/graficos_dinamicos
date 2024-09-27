@@ -7,6 +7,7 @@
     --font: "Nunito Sans", sans-serif;
 }
 
+
 body {
     background-color: var(--bg-color);
     color: var(--primary-color);
