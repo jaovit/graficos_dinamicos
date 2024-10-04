@@ -7,7 +7,6 @@
     --font: "Nunito Sans", sans-serif;
 }
 
-
 body {
     background-color: var(--bg-color);
     color: var(--primary-color);
@@ -49,6 +48,10 @@ nav a:hover {
 
 .graficos-container {
     margin: 5rem;
+}
+
+.grafico {
+    margin-top: 3rem;
 }
 
 .graficos-container__texto {
